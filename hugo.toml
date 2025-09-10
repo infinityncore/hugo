@@ -1,0 +1,4 @@
+baseURL = 'https://infinityncore.xyz/'
+languageCode = 'en-us'
+title = 'InfinitynCore'
+theme = "terminal" 
