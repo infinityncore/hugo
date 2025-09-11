@@ -13,7 +13,7 @@ hideComments = false
 
 Every great journey starts with a single step. For us, this post is that first, exciting step into a vast new landscape of ideas. Welcome to **infinityncore**. ✨
 
-![A captivating image representing infinityncore's journey and exploration.](/images/image-4.png) 
+ 
 *You can add a small caption here if you like, e.g., "Our journey to the infinite core begins!"*
 
 ## What's in a Name?
