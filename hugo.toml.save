@@ -49,7 +49,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "InfinitynCore"
+    title = "Infinityncore"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
